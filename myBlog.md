@@ -63,9 +63,7 @@ html是李爵士的发明创造，2017年他获得了图灵奖，获奖时间有
 ~~~html
 <div class="middle bordered"></div>
 ~~~
-2. contenteditable
-
-内容可以直接被编辑
+2. contenteditable 内容可以直接被编辑
 
 3. hidden
 使标签看不见
